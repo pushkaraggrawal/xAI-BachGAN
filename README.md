@@ -10,5 +10,6 @@ Model that generates images using inputs of class labeled saliency maps rather t
 
 We aim to combine the best of both worlds to build a image generating model which can be trained on small datasets, and that too only having bounding boxes as inputs. Such a system will rapidly speed prototyping of generative models, with little annotation work (object detection to get the bounding boxes) required on the dataset.
 ## Citations
-Original works on BachGAN: https://github.com/Cold-Winter/BachGAN
-Original works on xAIGAN: https://github.com/explainable-gan/XAIGAN
+Original works on BachGAN: https://github.com/Cold-Winter/BachGAN.
+
+Original works on xAIGAN: https://github.com/explainable-gan/XAIGAN.
